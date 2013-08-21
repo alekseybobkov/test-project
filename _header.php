@@ -2,10 +2,7 @@
 				
 	<a id="logo" href="http://sypestudios.com/" title="SYPE STUDIOS Home"></a>
 		
-		
-		
-		
-		<div id="language">
+		<div id="language" class="noclass">
 			<a title="English"><img src="/res/images/lang/prague_recording_studio_us.jpg" /></a>
 			<a title="English"><img src="/res/images/lang/prague_recording_studio_en.jpg" /></a>
 			<a href="/cz/praha-nahravaci-studio.php" title="Czech"><img src="/res/images/lang/prague_recording_studio_cze.jpg" /></a>
